@@ -1,0 +1,9 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <outdatedPlugins>
+      <item value="pl.charmas.parcelablegenerator" />
+      <item value="com.genymotion.idea" />
+      <item value="com.wakatime.intellij.plugin" />
+    </outdatedPlugins>
+  </component>
+</application>

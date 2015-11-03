@@ -1,0 +1,4 @@
+com.intellij
+Lombook Plugin
+com.genymotion.idea
+pl.charmas.parcelablegenerator

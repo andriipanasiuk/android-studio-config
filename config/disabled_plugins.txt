@@ -1,0 +1,2 @@
+Hrisey Plugin
+org.jetbrains.java.decompiler

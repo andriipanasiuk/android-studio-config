@@ -1,0 +1,51 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>setlis</find>
+      <find>mFlightSearchResult == null</find>
+      <find>scrollToPosition</find>
+      <find>Integer</find>
+      <find>Pair&lt;Long, Long&gt;</find>
+      <find>try i</find>
+      <find>Nex</find>
+      <find>find</find>
+      <find>getmana</find>
+      <find>setcu</find>
+      <find>persre</find>
+      <find>lig</find>
+      <find>price</find>
+      <find>putin</find>
+      <find>setl</find>
+      <find>setlo</find>
+      <find>fold</find>
+      <find>15sp</find>
+      <find>defa</find>
+      <find>defaut</find>
+      <find>5dp</find>
+      <find>default.sm</find>
+      <find>&gt;5dp</find>
+      <find>dp</find>
+      <find>fab</find>
+      <find>sense</find>
+      <find>GONE</find>
+      <find>ViewPager</find>
+      <find>wrong</find>
+      <find>dada</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PriceValidationRequestQueryBuilder</replace>
+      <replace>@dimen/landing.circle.width</replace>
+      <replace>@dimen/landing.circle.label.textSize</replace>
+      <replace>@dimen/landing.circle.label.marginTop</replace>
+      <replace>View</replace>
+      <replace>T</replace>
+      <replace>TAG</replace>
+      <replace>mExpandAnimationDuration</replace>
+      <replace>Long</replace>
+      <replace>MinMaxInfo</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/workspace/iglobe-android/calendarlib</dir>
+    </dirStrings>
+  </component>
+</application>
